@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhangce01
-- I’m currently pursuing my Master's degree in Machine Learning at CMU and looking forward to graduating in December 2024. Before this, I earned my B.Eng. in Communication Engineering from Southern University of Science and Technology (SUSTech). My current research interest lie in vision-language models and scene understanding.
+- I’m currently a research intern at Tencent AI Lab. I will be joining the Ph.D. in Robotics program at Carnegie Mellon University (CMU) in Fall 2025. Previously, I obtained my M.Sc. in Machine Learning in the Machine Learning Department at CMU, advised by Prof. Katia Sycara. Prior to this, I received my B.Eng. in Communication Engineering from Southern University of Science and Technology (SUSTech), where I worked under the supervision of Prof. Zhihai He. My current research interest lie in vision-language models and scene understanding.
 
 <!---
 zhangce01/zhangce01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
